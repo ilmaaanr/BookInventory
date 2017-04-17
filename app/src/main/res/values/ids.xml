@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="action_serach" type="id" />
+    <item name="txtBookTitle" type="id" />
+    <item name="txtOtherInfo" type="id" />
+</resources>
